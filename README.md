@@ -321,32 +321,20 @@ This ensured that the dataset used for dashboard development was properly struct
 The following DAX measures were created to calculate the primary dashboard KPIs:
 
 
-```DAX
 Total Orders =
 COUNTROWS(sales_data)
 
-````markdown
-### Total Sales
-
-```DAX
 Total Sales =
 SUM(sales_data[Sales])
-````
 
-```DAX
 Total Profit =
 SUM(sales_data[Profit])
-```
 
-```DAX
 Total Profit Margin =
-[Total Profit] / [Total Sales]
-```
+DIVIDE([Total Profit], [Total Sales])
 
-```DAX
 Total Units Sold =
 SUM(sales_data[Units Sold])
-```
 
 These measures were used throughout the Power BI dashboard to provide dynamic KPI calculations.
 
@@ -542,5 +530,3 @@ The analysis highlights the strongest markets, products, segments, discount stra
 By combining **Python's analytical capabilities with Power BI's visualization, DAX, interactive filtering, and AI-powered insights**, the project transforms raw transactional data into a practical business decision-support solution.
 
 ```
-```
-
