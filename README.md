@@ -143,7 +143,7 @@ The Power BI dashboard provides an interactive view of the company's sales perfo
 
 # 🔄 Project Workflow
 
-## 1. 📁 Dataset Overview
+## 1.  Dataset Overview
 
 The project starts with a sales dataset containing **700 sales records** and information related to customers, products, sales transactions, discounts, costs, profitability, and dates.
 
@@ -170,7 +170,7 @@ The project starts with a sales dataset containing **700 sales records** and inf
 
 ---
 
-# 🐍 2. Python Data Preparation
+#  2. Python Data Preparation
 
 The raw `sales data.xlsx` file was loaded into a **Jupyter Notebook** for data cleaning and preprocessing.
 
@@ -187,7 +187,7 @@ The result was a cleaner and more reliable dataset suitable for further analysis
 
 ---
 
-# ⚙️ 3. Feature Engineering
+#  3. Feature Engineering
 
 Two additional analytical features were created:
 
@@ -205,7 +205,7 @@ This feature was particularly useful for analyzing monthly sales and profit tren
 
 ---
 
-# 📌 4. KPI Analysis
+#  4. KPI Analysis
 
 The primary business KPIs were analyzed using Python:
 
@@ -219,7 +219,7 @@ These KPIs provided a high-level understanding of the overall performance of the
 
 ---
 
-# 🔎 5. Exploratory Data Analysis (EDA)
+#  5. Exploratory Data Analysis (EDA)
 
 ##  Total Sales and Profit by Country
 
@@ -299,7 +299,7 @@ This cleaned file was then used as the source dataset for the Power BI dashboard
 
 ---
 
-# 📊 7. Power BI
+#  7. Power BI
 
 The cleaned Excel dataset was imported into **Power Query** as part of the ETL process.
 
@@ -316,7 +316,7 @@ This ensured that the dataset used for dashboard development was properly struct
 
 ---
 
-# 🧮 8. DAX Measures
+#  8. DAX Measures
 
 The following DAX measures were created to calculate the primary dashboard KPIs:
 
