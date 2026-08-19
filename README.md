@@ -434,8 +434,8 @@ This adds an additional analytical layer to the dashboard beyond traditional cha
 Sales-Performance-Analysis-Python-and-PowerBI-Project/
 │
 ├── Images/
-│   ├── image 1.png
-│   └── image 2.png
+│   ├── multiple images of the dashboard
+│  
 │
 ├── Datasets/
 │   ├── sales data.xlsx
