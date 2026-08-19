@@ -320,7 +320,6 @@ This ensured that the dataset used for dashboard development was properly struct
 
 The following DAX measures were created to calculate the primary dashboard KPIs:
 
-### Total Orders
 
 ```DAX
 Total Orders =
