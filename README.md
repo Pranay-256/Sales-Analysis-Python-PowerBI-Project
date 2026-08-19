@@ -528,5 +528,3 @@ This project demonstrates a complete **end-to-end data analytics workflow**, sta
 The analysis highlights the strongest markets, products, segments, discount strategies, and profitability challenges. In particular, the **USA market, Paseo/VTT/Velo products, Government segment, and Channel Partners** emerge as important areas of opportunity, while the **Enterprise segment** requires significant cost and profitability improvement.
 
 By combining **Python's analytical capabilities with Power BI's visualization, DAX, interactive filtering, and AI-powered insights**, the project transforms raw transactional data into a practical business decision-support solution.
-
-```
