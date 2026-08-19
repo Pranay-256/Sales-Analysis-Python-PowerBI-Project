@@ -14,7 +14,7 @@ The objective of this project is to transform raw sales data into meaningful bus
 
 # 📌 Key Insights
 
-## 💡 Key Performance Indicators
+## Key Performance Indicators
 
 | KPI | Value |
 |---|---:|
@@ -28,7 +28,7 @@ The objective of this project is to transform raw sales data into meaningful bus
 
 ## 🔍 Business Insights
 
-### 1. 🇺🇸 USA Generates the Highest Sales
+### 1.  USA Generates the Highest Sales
 
 The **USA** is the highest-performing country in terms of total sales, making it the most significant market represented in the dashboard.
 
@@ -36,7 +36,7 @@ This indicates that the USA contributes a substantial portion of the company's o
 
 ---
 
-### 2. 🏆 Paseo, VTT and Velo Are the Top-Selling Products
+### 2.  Paseo, VTT and Velo Are the Top-Selling Products
 
 **Paseo, VTT, and Velo** consistently rank among the top-selling products across the countries covered by the dashboard.
 
@@ -46,7 +46,7 @@ This consistency indicates strong and widespread demand for these products acros
 
 ---
 
-### 3. 🏢 Government and Small Business Lead in Sales
+### 3.  Government and Small Business Lead in Sales
 
 The **Government** and **Small Business** segments generate the highest sales.
 
@@ -60,7 +60,7 @@ The **Government** and **Small Business** segments generate the highest sales.
 
 ---
 
-### 4. ⚠️ Enterprise Segment Is Running at a Loss
+### 4.  Enterprise Segment Is Running at a Loss
 
 The **Enterprise** segment is operating at a loss despite carrying a significant share of sales volume.
 
@@ -76,7 +76,7 @@ Since the segment carries a considerable sales volume, improving its cost struct
 
 ---
 
-### 5. 🤝 Channel Partners Deliver the Highest Profit Margin
+### 5.  Channel Partners Deliver the Highest Profit Margin
 
 The **Channel Partners** segment delivers the highest profit margin among the segments.
 
@@ -90,7 +90,7 @@ As a result, even with comparatively lower sales volume, Channel Partners genera
 
 ---
 
-### 6. 💸 Discounted Products Drive the Bulk of Sales
+### 6.  Discounted Products Drive the Bulk of Sales
 
 Products sold without a discount contribute the smallest share of total sales.
 
@@ -109,23 +109,23 @@ This suggests that discounting plays an important role in driving demand and con
 
 # 💡 Business Recommendations
 
-### 1. 📢 Promote Montana and Carretera
+### 1.  Promote Montana and Carretera
 
 Products such as **Montana** and **Carretera** can be promoted through targeted advertising campaigns and strategic discounts to help close the gap with the top-selling products.
 
-### 2. ⚙️ Reduce Enterprise Segment Costs
+### 2.  Reduce Enterprise Segment Costs
 
 The Enterprise segment generates a major share of sales but currently operates at a loss.
 
 Reducing manufacturing and other operational costs could significantly improve overall profitability.
 
-### 3. 🤝 Invest in Channel Partner Marketing
+### 3.  Invest in Channel Partner Marketing
 
 Channel Partners already generate the highest profit margin.
 
 Increasing their sales volume through targeted marketing and partner-focused strategies could provide highly efficient profit growth.
 
-### 4. 🏷️ Maintain Strategic Discounts
+### 4.  Maintain Strategic Discounts
 
 Undiscounted products consistently contribute the smallest share of total sales.
 
@@ -221,7 +221,7 @@ These KPIs provided a high-level understanding of the overall performance of the
 
 # 🔎 5. Exploratory Data Analysis (EDA)
 
-## 🌍 Total Sales and Profit by Country
+##  Total Sales and Profit by Country
 
 Sales and profit were aggregated at the country level to identify the strongest and weakest geographical markets.
 
@@ -236,7 +236,7 @@ These visualizations make it easier to compare geographical performance.
 
 ---
 
-## 🏢 Total Sales and Profit by Segment
+##  Total Sales and Profit by Segment
 
 Sales and profit were aggregated by customer segment to understand which business segments contribute the most revenue and profitability.
 
@@ -254,7 +254,7 @@ Visualizations created:
 
 ---
 
-## 📈 Monthly Sales and Profit Trend
+##  Monthly Sales and Profit Trend
 
 Monthly sales and profit were analyzed to understand how business performance changed over time.
 
@@ -269,7 +269,7 @@ These trends help identify changes in revenue generation and profitability acros
 
 ---
 
-## 📦 Units Sold, Sales and Profit by Product
+##  Units Sold, Sales and Profit by Product
 
 Product-level analysis was performed by aggregating:
 
@@ -289,7 +289,7 @@ The analysis identified **Paseo, VTT, and Velo** as the leading products across 
 
 ---
 
-# 💾 6. Exporting the Cleaned Dataset
+#  6. Exporting the Cleaned Dataset
 
 After completing the data cleaning, preprocessing, feature engineering, and exploratory analysis, the cleaned dataset was exported as:
 
